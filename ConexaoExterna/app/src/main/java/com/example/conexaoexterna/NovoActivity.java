@@ -14,7 +14,7 @@ public class NovoActivity extends AppCompatActivity {
     }
 
     public void salvar (View view) {
-        
+
     }
 
     public void cancelar (View view) {
